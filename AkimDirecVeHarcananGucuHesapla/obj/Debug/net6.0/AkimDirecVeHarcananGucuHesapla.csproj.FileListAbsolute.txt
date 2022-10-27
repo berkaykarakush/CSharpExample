@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\bin\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\bin\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\bin\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\bin\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\bin\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\refint\AkimDirecVeHarcananGucuHesapla.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\AkimDirecVeHarcananGucuHesapla.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\AkimDirecVeHarcananGucuHesapla\obj\Debug\net6.0\ref\AkimDirecVeHarcananGucuHesapla.dll

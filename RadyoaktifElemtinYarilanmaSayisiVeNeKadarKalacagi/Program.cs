@@ -1,0 +1,10 @@
+﻿double baslangicKutlesi, yarilanmaSuresi, Sure, YarilanmaSayisi, kalanKutle;
+Console.Write("Baslangic Kutlesini giriniz: ");
+baslangicKutlesi = Convert.ToDouble(Console.ReadLine());
+Console.Write("Yarilanma Suresini giriniz: ");
+yarilanmaSuresi= Convert.ToDouble(Console.ReadLine());
+Console.Write("Sureyi giriniz: ");
+Sure= Convert.ToDouble(Console.ReadLine());
+YarilanmaSayisi = Sure/yarilanmaSuresi;
+kalanKutle = baslangicKutlesi/Math.Pow(2,YarilanmaSayisi);
+Console.Write("\nYarilanma Sayisi: {0}\nKalan Kutle: {1}",YarilanmaSayisi,kalanKutle);

@@ -1,0 +1,10 @@
+﻿double yerdenYukseklik, hiz, havadaKalmaSuresi, yataydaAlacagiYol, vy, yereCarpmaHizi;
+Console.Write("Cismin yerden yuksekligini giriniz: ");
+yerdenYukseklik = Convert.ToDouble(Console.ReadLine());
+Console.Write("Cismin hizini giriniz: ");
+hiz = Convert.ToDouble(Console.ReadLine());
+havadaKalmaSuresi = Math.Sqrt(2*yerdenYukseklik/9.8);
+yataydaAlacagiYol = hiz * havadaKalmaSuresi;
+vy = 9.8*havadaKalmaSuresi;
+yereCarpmaHizi = Math.Sqrt(Math.Pow(hiz,2)+Math.Pow(vy,2));
+Console.Write("\nCismin havada kalma suresi: {0}\nCismin Yatayda Alacagi Yol: {1}\nCismin Yere Carpma Hizi: {2}",havadaKalmaSuresi, yataydaAlacagiYol, yereCarpmaHizi);

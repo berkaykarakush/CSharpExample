@@ -1,0 +1,15 @@
+﻿double E, R1, R2, R3, R4, I, VR1, PR2;
+Console.Write("Gerilim Degerini Gir: ");
+E = Convert.ToDouble(Console.ReadLine());
+Console.Write("R1 Degerini Gir: ");
+R1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("R2 Degerini Gir: ");
+R2 = Convert.ToDouble(Console.ReadLine());
+Console.Write("R3 Degerini Gir: ");
+R3 = Convert.ToDouble(Console.ReadLine());
+Console.Write("R4 Degerini Gir: ");
+R4 = Convert.ToDouble(Console.ReadLine());
+I = E/(R1+R2+R3+R4);
+VR1 = R1*I;
+PR2 = Math.Pow(I,2)*R2;
+Console.Write("\nDevreden Akan Akim: {0}\nR1 Direnci Uzerindeki Gerilim Dusumu: {1}\nR2 Direncinde Harcanan Guc: {2}",I,VR1,PR2);

@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\bin\Debug\net6.0\MolSayisi.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\bin\Debug\net6.0\MolSayisi.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\bin\Debug\net6.0\MolSayisi.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\bin\Debug\net6.0\MolSayisi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\bin\Debug\net6.0\MolSayisi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\refint\MolSayisi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\MolSayisi.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MolSayisi\obj\Debug\net6.0\ref\MolSayisi.dll

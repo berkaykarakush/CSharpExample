@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\bin\Debug\net6.0\OhmKanunu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\bin\Debug\net6.0\OhmKanunu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\bin\Debug\net6.0\OhmKanunu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\bin\Debug\net6.0\OhmKanunu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\bin\Debug\net6.0\OhmKanunu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\refint\OhmKanunu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\OhmKanunu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OhmKanunu\obj\Debug\net6.0\ref\OhmKanunu.dll
