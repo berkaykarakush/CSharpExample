@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\bin\Debug\net6.0\KureAlaniVeHacmi.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\bin\Debug\net6.0\KureAlaniVeHacmi.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\bin\Debug\net6.0\KureAlaniVeHacmi.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\bin\Debug\net6.0\KureAlaniVeHacmi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\bin\Debug\net6.0\KureAlaniVeHacmi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\refint\KureAlaniVeHacmi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\KureAlaniVeHacmi.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KureAlaniVeHacmi\obj\Debug\net6.0\ref\KureAlaniVeHacmi.dll

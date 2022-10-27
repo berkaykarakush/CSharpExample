@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\bin\Debug\net6.0\HeronFormulu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\bin\Debug\net6.0\HeronFormulu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\bin\Debug\net6.0\HeronFormulu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\bin\Debug\net6.0\HeronFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\bin\Debug\net6.0\HeronFormulu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\refint\HeronFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\HeronFormulu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HeronFormulu\obj\Debug\net6.0\ref\HeronFormulu.dll

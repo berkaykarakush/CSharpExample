@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\bin\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\bin\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\bin\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\bin\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\bin\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\refint\PotansiyelVeKinetikEnerjiHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\PotansiyelVeKinetikEnerjiHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PotansiyelVeKinetikEnerjiHesaplama\obj\Debug\net6.0\ref\PotansiyelVeKinetikEnerjiHesaplama.dll

@@ -1,8 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-int a = 10;
-int b = 20;
-int toplam;
-toplam = a + b;
-Console.WriteLine(toplam);
+﻿double a, h, alan;
+Console.Write("Kenar uzunlugunu giriniz (cm): ");
+a = Convert.ToDouble(Console.ReadLine());
+Console.Write("Yuksekligi giriniz (cm): ");
+h = Convert.ToDouble(Console.ReadLine());
+alan = a*h/2;
+Console.WriteLine("\nUcgenin Alani (cm2): {0}",alan);

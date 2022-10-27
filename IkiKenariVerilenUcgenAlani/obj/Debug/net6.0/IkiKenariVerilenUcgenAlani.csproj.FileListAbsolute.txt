@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\bin\Debug\net6.0\IkiKenariVerilenUcgenAlani.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\bin\Debug\net6.0\IkiKenariVerilenUcgenAlani.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\bin\Debug\net6.0\IkiKenariVerilenUcgenAlani.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\bin\Debug\net6.0\IkiKenariVerilenUcgenAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\bin\Debug\net6.0\IkiKenariVerilenUcgenAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\refint\IkiKenariVerilenUcgenAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\IkiKenariVerilenUcgenAlani.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiKenariVerilenUcgenAlani\obj\Debug\net6.0\ref\IkiKenariVerilenUcgenAlani.dll

@@ -1,0 +1,10 @@
+﻿double birinciKenar, ikinciKenar, ucuncuKenar, alan, heron;
+Console.Write("Birinci kenar degerini giriniz (cm):");
+birinciKenar = Convert.ToDouble(Console.ReadLine());
+Console.Write("Ikinci kenar degerini giriniz (cm):");
+ikinciKenar = Convert.ToDouble(Console.ReadLine());
+Console.Write("Ucuncu kenar degerini giriniz (cm):");
+ucuncuKenar= Convert.ToDouble(Console.ReadLine());
+heron = (birinciKenar+ikinciKenar+ucuncuKenar)/2;
+alan = Math.Sqrt(heron*(heron-birinciKenar)*(heron-ikinciKenar)*(heron-ucuncuKenar));
+Console.Write("Alan degeri: {0}",alan);

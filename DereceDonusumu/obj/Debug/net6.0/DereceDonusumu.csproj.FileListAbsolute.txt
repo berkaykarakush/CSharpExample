@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\bin\Debug\net6.0\DereceDonusumu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\bin\Debug\net6.0\DereceDonusumu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\bin\Debug\net6.0\DereceDonusumu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\bin\Debug\net6.0\DereceDonusumu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\bin\Debug\net6.0\DereceDonusumu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\refint\DereceDonusumu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\DereceDonusumu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DereceDonusumu\obj\Debug\net6.0\ref\DereceDonusumu.dll

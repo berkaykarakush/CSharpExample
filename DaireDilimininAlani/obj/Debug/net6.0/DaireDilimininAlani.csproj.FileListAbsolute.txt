@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\bin\Debug\net6.0\DaireDilimininAlani.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\bin\Debug\net6.0\DaireDilimininAlani.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\bin\Debug\net6.0\DaireDilimininAlani.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\bin\Debug\net6.0\DaireDilimininAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\bin\Debug\net6.0\DaireDilimininAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\refint\DaireDilimininAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\DaireDilimininAlani.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DaireDilimininAlani\obj\Debug\net6.0\ref\DaireDilimininAlani.dll

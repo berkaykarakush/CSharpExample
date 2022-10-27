@@ -1,0 +1,10 @@
+﻿double kutle, hiz, yerdenYukseklik, ep, ek;
+Console.Write("Maddenin kutlesini giriniz : ");
+kutle = Convert.ToDouble(Console.ReadLine());
+Console.Write("Maddenin hizini giriniz : ");
+hiz = Convert.ToDouble(Console.ReadLine());
+Console.Write("Maddenin yerden yuksekligini giriniz : ");
+yerdenYukseklik = Convert.ToDouble(Console.ReadLine());
+ep = kutle * 9.8 * yerdenYukseklik;
+ek = kutle *Math.Pow(hiz,2)/2;
+Console.Write("\nMaddenin kinetik enerjisi: {0}\nMaddenin Potansiyel Enerjisi: {1}",ek,ep); 

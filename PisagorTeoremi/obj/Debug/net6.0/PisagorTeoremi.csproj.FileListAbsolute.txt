@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\bin\Debug\net6.0\PisagorTeoremi.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\bin\Debug\net6.0\PisagorTeoremi.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\bin\Debug\net6.0\PisagorTeoremi.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\bin\Debug\net6.0\PisagorTeoremi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\bin\Debug\net6.0\PisagorTeoremi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\refint\PisagorTeoremi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\PisagorTeoremi.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PisagorTeoremi\obj\Debug\net6.0\ref\PisagorTeoremi.dll

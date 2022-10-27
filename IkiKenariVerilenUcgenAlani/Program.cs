@@ -1,0 +1,10 @@
+﻿double kenar1, kenar2, aciDegeri, alan;
+const double pi = 3.14;
+Console.Write("Birinci kenar degerini giriniz (cm): ");
+kenar1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Ikinci kenar degerini giriniz (cm): ");
+kenar2 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Aradaki aci degerini giriniz (derece): ");
+aciDegeri = Convert.ToDouble(Console.ReadLine());
+alan = kenar1*kenar2*Math.Sin(aciDegeri*pi/180)/2;
+Console.Write("\nUcgenin Alani: {0}",alan);
