@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\bin\Debug\net6.0\UcgeninAlani.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\bin\Debug\net6.0\UcgeninAlani.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\bin\Debug\net6.0\UcgeninAlani.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\bin\Debug\net6.0\UcgeninAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\bin\Debug\net6.0\UcgeninAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\refint\UcgeninAlani.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\UcgeninAlani.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcgeninAlani\obj\Debug\net6.0\ref\UcgeninAlani.dll
