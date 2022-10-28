@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SignumFonksiyonu2/1.0.0": {
+        "runtime": {
+          "SignumFonksiyonu2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignumFonksiyonu2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

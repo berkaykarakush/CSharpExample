@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\bin\Debug\net6.0\KombinasyonHesaplama2.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\bin\Debug\net6.0\KombinasyonHesaplama2.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\bin\Debug\net6.0\KombinasyonHesaplama2.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\bin\Debug\net6.0\KombinasyonHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\bin\Debug\net6.0\KombinasyonHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\refint\KombinasyonHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\KombinasyonHesaplama2.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama2\obj\Debug\net6.0\ref\KombinasyonHesaplama2.dll

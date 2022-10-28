@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\bin\Debug\net6.0\SridharacharyaFormulu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\bin\Debug\net6.0\SridharacharyaFormulu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\bin\Debug\net6.0\SridharacharyaFormulu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\bin\Debug\net6.0\SridharacharyaFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\bin\Debug\net6.0\SridharacharyaFormulu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\refint\SridharacharyaFormulu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\SridharacharyaFormulu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SridharacharyaFormulu\obj\Debug\net6.0\ref\SridharacharyaFormulu.dll

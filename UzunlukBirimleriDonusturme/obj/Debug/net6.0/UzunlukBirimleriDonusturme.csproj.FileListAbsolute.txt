@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\bin\Debug\net6.0\UzunlukBirimleriDonusturme.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\bin\Debug\net6.0\UzunlukBirimleriDonusturme.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\bin\Debug\net6.0\UzunlukBirimleriDonusturme.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\bin\Debug\net6.0\UzunlukBirimleriDonusturme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\bin\Debug\net6.0\UzunlukBirimleriDonusturme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\refint\UzunlukBirimleriDonusturme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\UzunlukBirimleriDonusturme.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UzunlukBirimleriDonusturme\obj\Debug\net6.0\ref\UzunlukBirimleriDonusturme.dll

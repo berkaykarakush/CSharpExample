@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\bin\Debug\net6.0\TamBolenHesaplama2.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\bin\Debug\net6.0\TamBolenHesaplama2.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\bin\Debug\net6.0\TamBolenHesaplama2.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\bin\Debug\net6.0\TamBolenHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\bin\Debug\net6.0\TamBolenHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\refint\TamBolenHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\TamBolenHesaplama2.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolenHesaplama2\obj\Debug\net6.0\ref\TamBolenHesaplama2.dll

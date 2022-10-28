@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\bin\Debug\net6.0\KombinasyonHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\bin\Debug\net6.0\KombinasyonHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\bin\Debug\net6.0\KombinasyonHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\bin\Debug\net6.0\KombinasyonHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\bin\Debug\net6.0\KombinasyonHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\refint\KombinasyonHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\KombinasyonHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama\obj\Debug\net6.0\ref\KombinasyonHesaplama.dll

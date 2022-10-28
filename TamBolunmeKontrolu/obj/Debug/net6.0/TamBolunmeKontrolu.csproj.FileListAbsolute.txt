@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\bin\Debug\net6.0\TamBolunmeKontrolu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\bin\Debug\net6.0\TamBolunmeKontrolu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\bin\Debug\net6.0\TamBolunmeKontrolu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\bin\Debug\net6.0\TamBolunmeKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\bin\Debug\net6.0\TamBolunmeKontrolu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\refint\TamBolunmeKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\TamBolunmeKontrolu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamBolunmeKontrolu\obj\Debug\net6.0\ref\TamBolunmeKontrolu.dll

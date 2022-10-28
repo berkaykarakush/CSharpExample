@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\bin\Debug\net6.0\TekCiftKontrolu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\bin\Debug\net6.0\TekCiftKontrolu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\bin\Debug\net6.0\TekCiftKontrolu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\bin\Debug\net6.0\TekCiftKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\bin\Debug\net6.0\TekCiftKontrolu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\refint\TekCiftKontrolu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\TekCiftKontrolu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TekCiftKontrolu\obj\Debug\net6.0\ref\TekCiftKontrolu.dll

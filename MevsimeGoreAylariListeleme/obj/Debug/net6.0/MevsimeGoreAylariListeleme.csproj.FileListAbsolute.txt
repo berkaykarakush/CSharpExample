@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\bin\Debug\net6.0\MevsimeGoreAylariListeleme.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\bin\Debug\net6.0\MevsimeGoreAylariListeleme.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\bin\Debug\net6.0\MevsimeGoreAylariListeleme.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\bin\Debug\net6.0\MevsimeGoreAylariListeleme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\bin\Debug\net6.0\MevsimeGoreAylariListeleme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\refint\MevsimeGoreAylariListeleme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\MevsimeGoreAylariListeleme.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MevsimeGoreAylariListeleme\obj\Debug\net6.0\ref\MevsimeGoreAylariListeleme.dll

@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\bin\Debug\net6.0\KombinasyonHesaplama3.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\bin\Debug\net6.0\KombinasyonHesaplama3.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\bin\Debug\net6.0\KombinasyonHesaplama3.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\bin\Debug\net6.0\KombinasyonHesaplama3.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\bin\Debug\net6.0\KombinasyonHesaplama3.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\refint\KombinasyonHesaplama3.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\KombinasyonHesaplama3.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KombinasyonHesaplama3\obj\Debug\net6.0\ref\KombinasyonHesaplama3.dll

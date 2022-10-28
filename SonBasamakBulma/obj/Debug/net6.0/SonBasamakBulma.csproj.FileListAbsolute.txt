@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\bin\Debug\net6.0\SonBasamakBulma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\bin\Debug\net6.0\SonBasamakBulma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\bin\Debug\net6.0\SonBasamakBulma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\bin\Debug\net6.0\SonBasamakBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\bin\Debug\net6.0\SonBasamakBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\refint\SonBasamakBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\SonBasamakBulma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SonBasamakBulma\obj\Debug\net6.0\ref\SonBasamakBulma.dll

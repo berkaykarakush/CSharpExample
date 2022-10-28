@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\bin\Debug\net6.0\FonksiyonKullanarakXYHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\bin\Debug\net6.0\FonksiyonKullanarakXYHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\bin\Debug\net6.0\FonksiyonKullanarakXYHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\bin\Debug\net6.0\FonksiyonKullanarakXYHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\bin\Debug\net6.0\FonksiyonKullanarakXYHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\refint\FonksiyonKullanarakXYHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\FonksiyonKullanarakXYHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\FonksiyonKullanarakXYHesaplama\obj\Debug\net6.0\ref\FonksiyonKullanarakXYHesaplama.dll

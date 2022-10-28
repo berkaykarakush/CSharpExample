@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\bin\Debug\net6.0\TransformatorDegerleriHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\bin\Debug\net6.0\TransformatorDegerleriHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\bin\Debug\net6.0\TransformatorDegerleriHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\bin\Debug\net6.0\TransformatorDegerleriHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\bin\Debug\net6.0\TransformatorDegerleriHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\refint\TransformatorDegerleriHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\TransformatorDegerleriHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TransformatorDegerleriHesaplama\obj\Debug\net6.0\ref\TransformatorDegerleriHesaplama.dll

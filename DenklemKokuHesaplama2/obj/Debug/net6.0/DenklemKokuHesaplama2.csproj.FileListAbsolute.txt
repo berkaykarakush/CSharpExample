@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\bin\Debug\net6.0\DenklemKokuHesaplama2.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\bin\Debug\net6.0\DenklemKokuHesaplama2.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\bin\Debug\net6.0\DenklemKokuHesaplama2.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\bin\Debug\net6.0\DenklemKokuHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\bin\Debug\net6.0\DenklemKokuHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\refint\DenklemKokuHesaplama2.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\DenklemKokuHesaplama2.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DenklemKokuHesaplama2\obj\Debug\net6.0\ref\DenklemKokuHesaplama2.dll

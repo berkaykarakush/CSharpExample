@@ -1,0 +1,11 @@
+﻿int a, b, c;
+float x1, x2;
+Console.Write("a+b+c=0 ise \n ax^2 + bx + x = 0 kokleri her zaman 1 ve c/a 'dir.\na degerini giriniz: ");
+a = Convert.ToInt32(Console.ReadLine());
+Console.Write("b degerini giriniz: ");
+b = Convert.ToInt32(Console.ReadLine());
+Console.Write("c degerini giriniz: ");
+c = Convert.ToInt32(Console.ReadLine());
+x1=1f;
+x2=(float)c/(float)a;
+Console.Write("\nx1 degeri: {0}\nx2 degeri: {1}",x1,x2);

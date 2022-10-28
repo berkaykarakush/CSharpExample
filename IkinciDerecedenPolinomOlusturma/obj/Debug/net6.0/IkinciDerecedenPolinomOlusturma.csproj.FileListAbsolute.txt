@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\bin\Debug\net6.0\IkinciDerecedenPolinomOlusturma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\bin\Debug\net6.0\IkinciDerecedenPolinomOlusturma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\bin\Debug\net6.0\IkinciDerecedenPolinomOlusturma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\bin\Debug\net6.0\IkinciDerecedenPolinomOlusturma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\bin\Debug\net6.0\IkinciDerecedenPolinomOlusturma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\refint\IkinciDerecedenPolinomOlusturma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\IkinciDerecedenPolinomOlusturma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkinciDerecedenPolinomOlusturma\obj\Debug\net6.0\ref\IkinciDerecedenPolinomOlusturma.dll

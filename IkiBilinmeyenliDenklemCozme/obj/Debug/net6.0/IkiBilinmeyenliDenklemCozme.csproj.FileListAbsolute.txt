@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\bin\Debug\net6.0\IkiBilinmeyenliDenklemCozme.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\bin\Debug\net6.0\IkiBilinmeyenliDenklemCozme.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\bin\Debug\net6.0\IkiBilinmeyenliDenklemCozme.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\bin\Debug\net6.0\IkiBilinmeyenliDenklemCozme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\bin\Debug\net6.0\IkiBilinmeyenliDenklemCozme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\refint\IkiBilinmeyenliDenklemCozme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\IkiBilinmeyenliDenklemCozme.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IkiBilinmeyenliDenklemCozme\obj\Debug\net6.0\ref\IkiBilinmeyenliDenklemCozme.dll

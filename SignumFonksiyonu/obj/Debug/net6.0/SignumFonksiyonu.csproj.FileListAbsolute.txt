@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\bin\Debug\net6.0\SignumFonksiyonu.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\bin\Debug\net6.0\SignumFonksiyonu.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\bin\Debug\net6.0\SignumFonksiyonu.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\bin\Debug\net6.0\SignumFonksiyonu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\bin\Debug\net6.0\SignumFonksiyonu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\refint\SignumFonksiyonu.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\SignumFonksiyonu.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SignumFonksiyonu\obj\Debug\net6.0\ref\SignumFonksiyonu.dll
