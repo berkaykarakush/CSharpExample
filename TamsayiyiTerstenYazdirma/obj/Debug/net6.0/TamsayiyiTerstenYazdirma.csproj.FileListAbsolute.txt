@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\bin\Debug\net6.0\TamsayiyiTerstenYazdirma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\bin\Debug\net6.0\TamsayiyiTerstenYazdirma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\bin\Debug\net6.0\TamsayiyiTerstenYazdirma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\bin\Debug\net6.0\TamsayiyiTerstenYazdirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\bin\Debug\net6.0\TamsayiyiTerstenYazdirma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\refint\TamsayiyiTerstenYazdirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\TamsayiyiTerstenYazdirma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\TamsayiyiTerstenYazdirma\obj\Debug\net6.0\ref\TamsayiyiTerstenYazdirma.dll

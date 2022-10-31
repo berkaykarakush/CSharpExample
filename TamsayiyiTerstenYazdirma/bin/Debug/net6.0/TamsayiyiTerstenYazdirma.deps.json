@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TamsayiyiTerstenYazdirma/1.0.0": {
+        "runtime": {
+          "TamsayiyiTerstenYazdirma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TamsayiyiTerstenYazdirma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
