@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\bin\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\bin\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\bin\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\bin\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\bin\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\refint\SayilarinBirlerBasamaklariniToplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\SayilarinBirlerBasamaklariniToplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayilarinBirlerBasamaklariniToplama\obj\Debug\net6.0\ref\SayilarinBirlerBasamaklariniToplama.dll
