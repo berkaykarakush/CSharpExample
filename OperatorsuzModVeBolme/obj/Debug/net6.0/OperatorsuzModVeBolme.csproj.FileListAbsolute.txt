@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\bin\Debug\net6.0\OperatorsuzModVeBolme.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\bin\Debug\net6.0\OperatorsuzModVeBolme.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\bin\Debug\net6.0\OperatorsuzModVeBolme.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\bin\Debug\net6.0\OperatorsuzModVeBolme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\bin\Debug\net6.0\OperatorsuzModVeBolme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\refint\OperatorsuzModVeBolme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\OperatorsuzModVeBolme.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzModVeBolme\obj\Debug\net6.0\ref\OperatorsuzModVeBolme.dll
