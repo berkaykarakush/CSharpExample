@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\bin\Debug\net6.0\OperatorsuzUsAlma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\bin\Debug\net6.0\OperatorsuzUsAlma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\bin\Debug\net6.0\OperatorsuzUsAlma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\bin\Debug\net6.0\OperatorsuzUsAlma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\bin\Debug\net6.0\OperatorsuzUsAlma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\refint\OperatorsuzUsAlma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\OperatorsuzUsAlma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\OperatorsuzUsAlma\obj\Debug\net6.0\ref\OperatorsuzUsAlma.dll
