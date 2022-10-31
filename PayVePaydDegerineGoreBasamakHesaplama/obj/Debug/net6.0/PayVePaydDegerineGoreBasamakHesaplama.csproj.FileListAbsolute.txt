@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\bin\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\bin\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\bin\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\bin\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\bin\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\refint\PayVePaydDegerineGoreBasamakHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\PayVePaydDegerineGoreBasamakHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\PayVePaydDegerineGoreBasamakHesaplama\obj\Debug\net6.0\ref\PayVePaydDegerineGoreBasamakHesaplama.dll
