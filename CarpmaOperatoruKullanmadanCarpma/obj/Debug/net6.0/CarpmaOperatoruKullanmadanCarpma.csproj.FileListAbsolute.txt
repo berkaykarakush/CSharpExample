@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\bin\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\bin\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\bin\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\bin\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\bin\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\refint\CarpmaOperatoruKullanmadanCarpma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\CarpmaOperatoruKullanmadanCarpma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\CarpmaOperatoruKullanmadanCarpma\obj\Debug\net6.0\ref\CarpmaOperatoruKullanmadanCarpma.dll
