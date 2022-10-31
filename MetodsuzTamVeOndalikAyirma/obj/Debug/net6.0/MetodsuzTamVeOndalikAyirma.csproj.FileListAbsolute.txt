@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\bin\Debug\net6.0\MetodsuzTamVeOndalikAyirma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\bin\Debug\net6.0\MetodsuzTamVeOndalikAyirma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\bin\Debug\net6.0\MetodsuzTamVeOndalikAyirma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\bin\Debug\net6.0\MetodsuzTamVeOndalikAyirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\bin\Debug\net6.0\MetodsuzTamVeOndalikAyirma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\refint\MetodsuzTamVeOndalikAyirma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\MetodsuzTamVeOndalikAyirma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MetodsuzTamVeOndalikAyirma\obj\Debug\net6.0\ref\MetodsuzTamVeOndalikAyirma.dll
