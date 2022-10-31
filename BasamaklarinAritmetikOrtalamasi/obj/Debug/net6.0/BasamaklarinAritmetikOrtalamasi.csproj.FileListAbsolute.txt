@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\bin\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\bin\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\bin\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\bin\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\bin\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\refint\BasamaklarinAritmetikOrtalamasi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\BasamaklarinAritmetikOrtalamasi.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\BasamaklarinAritmetikOrtalamasi\obj\Debug\net6.0\ref\BasamaklarinAritmetikOrtalamasi.dll
