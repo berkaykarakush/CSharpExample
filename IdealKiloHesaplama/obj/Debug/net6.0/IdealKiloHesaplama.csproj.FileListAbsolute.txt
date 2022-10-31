@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\bin\Debug\net6.0\IdealKiloHesaplama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\bin\Debug\net6.0\IdealKiloHesaplama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\bin\Debug\net6.0\IdealKiloHesaplama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\bin\Debug\net6.0\IdealKiloHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\bin\Debug\net6.0\IdealKiloHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\refint\IdealKiloHesaplama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\IdealKiloHesaplama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\IdealKiloHesaplama\obj\Debug\net6.0\ref\IdealKiloHesaplama.dll
