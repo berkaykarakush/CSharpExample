@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\bin\Debug\net6.0\DegiskenIcerikleriniDegistirme.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\bin\Debug\net6.0\DegiskenIcerikleriniDegistirme.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\bin\Debug\net6.0\DegiskenIcerikleriniDegistirme.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\bin\Debug\net6.0\DegiskenIcerikleriniDegistirme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\bin\Debug\net6.0\DegiskenIcerikleriniDegistirme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\refint\DegiskenIcerikleriniDegistirme.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\DegiskenIcerikleriniDegistirme.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DegiskenIcerikleriniDegistirme\obj\Debug\net6.0\ref\DegiskenIcerikleriniDegistirme.dll
