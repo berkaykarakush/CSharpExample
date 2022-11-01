@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\bin\Debug\net6.0\KendiHanelerineTamBolunenSayilar.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\bin\Debug\net6.0\KendiHanelerineTamBolunenSayilar.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\bin\Debug\net6.0\KendiHanelerineTamBolunenSayilar.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\bin\Debug\net6.0\KendiHanelerineTamBolunenSayilar.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\bin\Debug\net6.0\KendiHanelerineTamBolunenSayilar.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\refint\KendiHanelerineTamBolunenSayilar.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\KendiHanelerineTamBolunenSayilar.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\KendiHanelerineTamBolunenSayilar\obj\Debug\net6.0\ref\KendiHanelerineTamBolunenSayilar.dll
