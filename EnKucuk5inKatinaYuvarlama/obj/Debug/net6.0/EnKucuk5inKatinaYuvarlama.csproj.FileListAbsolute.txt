@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\bin\Debug\net6.0\EnKucuk5inKatinaYuvarlama.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\bin\Debug\net6.0\EnKucuk5inKatinaYuvarlama.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\bin\Debug\net6.0\EnKucuk5inKatinaYuvarlama.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\bin\Debug\net6.0\EnKucuk5inKatinaYuvarlama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\bin\Debug\net6.0\EnKucuk5inKatinaYuvarlama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\refint\EnKucuk5inKatinaYuvarlama.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\EnKucuk5inKatinaYuvarlama.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\EnKucuk5inKatinaYuvarlama\obj\Debug\net6.0\ref\EnKucuk5inKatinaYuvarlama.dll
