@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\bin\Debug\net6.0\HanoiKuleleri.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\bin\Debug\net6.0\HanoiKuleleri.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\bin\Debug\net6.0\HanoiKuleleri.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\bin\Debug\net6.0\HanoiKuleleri.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\bin\Debug\net6.0\HanoiKuleleri.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\refint\HanoiKuleleri.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\HanoiKuleleri.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HanoiKuleleri\obj\Debug\net6.0\ref\HanoiKuleleri.dll
