@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\bin\Debug\net6.0\SayininOnTabanindakiGosterimi.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\bin\Debug\net6.0\SayininOnTabanindakiGosterimi.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\bin\Debug\net6.0\SayininOnTabanindakiGosterimi.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\bin\Debug\net6.0\SayininOnTabanindakiGosterimi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\bin\Debug\net6.0\SayininOnTabanindakiGosterimi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\refint\SayininOnTabanindakiGosterimi.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\SayininOnTabanindakiGosterimi.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayininOnTabanindakiGosterimi\obj\Debug\net6.0\ref\SayininOnTabanindakiGosterimi.dll
