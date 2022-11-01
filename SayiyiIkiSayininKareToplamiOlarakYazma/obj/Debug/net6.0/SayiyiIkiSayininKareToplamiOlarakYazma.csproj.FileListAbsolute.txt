@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\bin\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\bin\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\bin\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\bin\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\bin\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\refint\SayiyiIkiSayininKareToplamiOlarakYazma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\SayiyiIkiSayininKareToplamiOlarakYazma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\SayiyiIkiSayininKareToplamiOlarakYazma\obj\Debug\net6.0\ref\SayiyiIkiSayininKareToplamiOlarakYazma.dll
