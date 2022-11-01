@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\bin\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\bin\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\bin\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\bin\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\bin\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\refint\DorduncuKuvvetiEnKucukOlanSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\DorduncuKuvvetiEnKucukOlanSayiyiBulma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\DorduncuKuvvetiEnKucukOlanSayiyiBulma\obj\Debug\net6.0\ref\DorduncuKuvvetiEnKucukOlanSayiyiBulma.dll
