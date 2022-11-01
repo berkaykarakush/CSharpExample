@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\bin\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\bin\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\bin\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\bin\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\bin\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\refint\NSayidanEnBuyukCiftSayiyiBulma.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\NSayidanEnBuyukCiftSayiyiBulma.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\NSayidanEnBuyukCiftSayiyiBulma\obj\Debug\net6.0\ref\NSayidanEnBuyukCiftSayiyiBulma.dll
