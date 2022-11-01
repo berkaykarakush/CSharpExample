@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\bin\Debug\net6.0\UcVeBesinKatlari.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\bin\Debug\net6.0\UcVeBesinKatlari.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\bin\Debug\net6.0\UcVeBesinKatlari.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\bin\Debug\net6.0\UcVeBesinKatlari.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\bin\Debug\net6.0\UcVeBesinKatlari.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\refint\UcVeBesinKatlari.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\UcVeBesinKatlari.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\UcVeBesinKatlari\obj\Debug\net6.0\ref\UcVeBesinKatlari.dll
