@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\bin\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\bin\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\bin\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\bin\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\bin\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\refint\HipotenustenKucukTumDikUcgenleriBul.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\HipotenustenKucukTumDikUcgenleriBul.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\HipotenustenKucukTumDikUcgenleriBul\obj\Debug\net6.0\ref\HipotenustenKucukTumDikUcgenleriBul.dll
