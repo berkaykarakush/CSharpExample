@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\bin\Debug\net6.0\aKupEksiaKareEsittirbSarti.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\bin\Debug\net6.0\aKupEksiaKareEsittirbSarti.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\bin\Debug\net6.0\aKupEksiaKareEsittirbSarti.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\bin\Debug\net6.0\aKupEksiaKareEsittirbSarti.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\bin\Debug\net6.0\aKupEksiaKareEsittirbSarti.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\refint\aKupEksiaKareEsittirbSarti.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\aKupEksiaKareEsittirbSarti.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\aKupEksiaKareEsittirbSarti\obj\Debug\net6.0\ref\aKupEksiaKareEsittirbSarti.dll
