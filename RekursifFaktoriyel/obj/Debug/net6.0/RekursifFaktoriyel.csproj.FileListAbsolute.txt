@@ -1,0 +1,15 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\bin\Debug\net6.0\RekursifFaktoriyel.exe
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\bin\Debug\net6.0\RekursifFaktoriyel.deps.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\bin\Debug\net6.0\RekursifFaktoriyel.runtimeconfig.json
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\bin\Debug\net6.0\RekursifFaktoriyel.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\bin\Debug\net6.0\RekursifFaktoriyel.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.csproj.CoreCompileInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\refint\RekursifFaktoriyel.dll
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.pdb
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\RekursifFaktoriyel.genruntimeconfig.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\Rekursiffaktoriyel\obj\Debug\net6.0\ref\RekursifFaktoriyel.dll
