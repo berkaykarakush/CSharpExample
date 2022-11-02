@@ -1,0 +1,5 @@
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MaclaurinSerisi\obj\Debug\net6.0\MaclaurinSerisi.csproj.AssemblyReference.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MaclaurinSerisi\obj\Debug\net6.0\MaclaurinSerisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MaclaurinSerisi\obj\Debug\net6.0\MaclaurinSerisi.AssemblyInfoInputs.cache
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MaclaurinSerisi\obj\Debug\net6.0\MaclaurinSerisi.AssemblyInfo.cs
+C:\Users\berka\Documents\Projects\CSharpProjects\ConsoleApp\MaclaurinSerisi\obj\Debug\net6.0\MaclaurinSerisi.csproj.CoreCompileInputs.cache
